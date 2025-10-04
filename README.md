@@ -4,4 +4,6 @@ FLAG:-
 >.... file overwrite
 >>...append 
 filedescriptor  it is a number ..... the number identify the file and open 
-in linux every thing os file ........... ghum gaya na dimag
+in linux every thing os file ........... ghum gaya na dimag.
+
+..
