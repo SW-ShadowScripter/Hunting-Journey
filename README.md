@@ -10,4 +10,6 @@ in linux every thing os file ........... ghum gaya na dimag.
 
 PORT Scanning
     1.nmap
-    2.
+    2.hping2 / hping3    .... network scan and packet crafting
+      type of scan
+      
