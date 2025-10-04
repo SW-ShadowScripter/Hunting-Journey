@@ -7,3 +7,7 @@ filedescriptor  it is a number ..... the number identify the file and open
 in linux every thing os file ........... ghum gaya na dimag.
 
 ..
+
+PORT Scanning
+    1.nmap
+    2.
